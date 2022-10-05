@@ -10,6 +10,7 @@ specifiers:
   '@trivago/prettier-plugin-sort-imports': ^3.3.0
   '@typescript-eslint/eslint-plugin': ^5.33.0
   '@typescript-eslint/parser': ^5.33.0
+  barba.js: ^1.0.0
   cross-env: ^7.0.3
   esbuild: ^0.15.1
   eslint: ^8.21.0
@@ -21,6 +22,7 @@ specifiers:
 
 dependencies:
   '@finsweet/ts-utils': 0.33.1
+  barba.js: 1.0.0
   gsap: 3.11.3
 
 devDependencies:
@@ -890,6 +892,10 @@ packages:
   /balanced-match/1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
     dev: true
+
+  /barba.js/1.0.0:
+    resolution: {integrity: sha512-JXhSw4y0XjhGavkxLOBrp/qXHql6HW2pw18qCBA9EWavvb12SFfv56JceZVHfwV+PxVlwb9QxNwyIXuSeQkoZA==}
+    dev: false
 
   /better-path-resolve/1.0.0:
     resolution: {integrity: sha512-pbnl5XzGBdrFU/wT4jqmJVPn2B6UHPBOhzMQkY/SPUPB6QtUXtmBHBIwCbXJol93mOpGMnQyP/+BB19q04xj7g==}

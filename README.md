@@ -1,8 +1,6 @@
-# Finsweet Developer Starter
+# Client - Project Name
 
-A starter template for both Client & Power projects.
-
-Before starting to work with this template, please take some time to read through the documentation.
+Project description.
 
 ## Reference
 
